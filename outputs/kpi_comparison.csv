@@ -1,0 +1,3 @@
+policy,fill_rate,stockout_days,avg_inventory_value
+naive,0.9788,77,1002982.1172
+optimised,0.992,28,1099356.0558

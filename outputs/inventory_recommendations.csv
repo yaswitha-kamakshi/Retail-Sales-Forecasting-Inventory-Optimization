@@ -1,0 +1,37 @@
+store_id,city,item_id,item_name,category,on_hand,on_order,lead_time_days,forecast_28d,mu_L,sigma_L,safety_stock,reorder_point,eoq,order_qty,days_of_cover,status,order_value
+S01,Visakhapatnam,I011,LED Bulb 9W,Household,4,11,8,43.2,11.6,3.8,6.2,17.8,206.0,207,2.6,REORDER,14490
+S02,Hyderabad,I012,Olive Oil 500ml,Grocery,8,10,9,43.8,12.3,3.9,6.4,18.7,78.2,79,5.1,REORDER,37920
+S02,Hyderabad,I011,LED Bulb 9W,Household,2,15,8,51.1,13.7,3.4,5.7,19.3,231.2,232,1.1,REORDER,16240
+S02,Hyderabad,I009,Face Wash 100ml,Personal Care,15,0,7,48.0,11.4,3.6,6.0,17.4,139.1,140,8.7,REORDER,19600
+S02,Hyderabad,I006,Potato Chips,Snacks,196,0,3,1091.3,114.7,13.1,21.5,136.2,2385.5,0,5.0,OK,0
+S03,Bengaluru,I010,Detergent 2kg,Household,20,104,6,403.6,79.6,10.7,17.7,97.2,302.4,0,1.4,OK,0
+S02,Hyderabad,I002,Sunflower Oil 1L,Grocery,51,228,4,818.2,115.3,16.5,27.2,142.5,669.8,0,1.7,OK,0
+S02,Hyderabad,I001,Basmati Rice 5kg,Grocery,46,163,5,621.0,119.3,11.3,18.7,138.0,333.9,0,2.1,OK,0
+S01,Visakhapatnam,I012,Olive Oil 500ml,Grocery,6,8,9,26.6,8.5,2.4,4.0,12.5,60.7,0,6.3,OK,0
+S01,Visakhapatnam,I010,Detergent 2kg,Household,26,90,6,359.9,73.9,11.5,18.9,92.9,281.6,0,2.0,OK,0
+S01,Visakhapatnam,I009,Face Wash 100ml,Personal Care,11,0,7,23.6,5.9,2.4,4.0,9.9,120.0,0,13.0,OK,0
+S02,Hyderabad,I003,Toor Dal 1kg,Grocery,108,144,5,548.1,102.8,14.0,23.0,125.7,527.4,0,5.5,OK,0
+S01,Visakhapatnam,I008,Shampoo 340ml,Personal Care,58,70,7,337.8,78.7,10.2,16.9,95.6,320.8,0,4.8,OK,0
+S01,Visakhapatnam,I006,Potato Chips,Snacks,16,224,3,931.7,88.6,16.1,26.4,115.0,2095.1,0,0.5,OK,0
+S01,Visakhapatnam,I005,Orange Juice 1L,Beverages,2,93,3,331.0,31.6,6.8,11.2,42.8,490.7,0,0.2,OK,0
+S01,Visakhapatnam,I004,Cola 2L,Beverages,160,0,3,736.6,71.3,10.5,17.3,88.7,858.5,0,6.1,OK,0
+S01,Visakhapatnam,I003,Toor Dal 1kg,Grocery,72,101,5,395.7,72.4,8.8,14.5,86.9,469.5,0,5.1,OK,0
+S01,Visakhapatnam,I002,Sunflower Oil 1L,Grocery,78,157,4,583.9,79.1,18.4,30.3,109.4,581.7,0,3.7,OK,0
+S01,Visakhapatnam,I001,Basmati Rice 5kg,Grocery,39,131,5,436.2,80.8,10.6,17.5,98.3,284.3,0,2.5,OK,0
+S01,Visakhapatnam,I007,Chocolate Gift Box,Snacks,44,56,6,284.9,49.6,8.9,14.6,64.2,283.3,0,4.3,OK,0
+S03,Bengaluru,I011,LED Bulb 9W,Household,6,12,8,43.5,10.5,3.6,6.0,16.5,186.8,0,3.9,OK,0
+S02,Hyderabad,I004,Cola 2L,Beverages,258,0,3,1012.4,101.9,13.1,21.5,123.4,1022.6,0,7.1,OK,0
+S02,Hyderabad,I007,Chocolate Gift Box,Snacks,19,81,6,336.8,60.7,9.0,14.8,75.5,339.4,0,1.6,OK,0
+S03,Bengaluru,I009,Face Wash 100ml,Personal Care,0,15,7,41.5,8.9,3.5,5.7,14.7,135.0,0,0.0,OK,0
+S03,Bengaluru,I008,Shampoo 340ml,Personal Care,38,78,7,314.4,67.7,12.9,21.2,88.9,345.0,0,3.4,OK,0
+S03,Bengaluru,I007,Chocolate Gift Box,Snacks,27,68,6,327.1,56.7,9.0,14.9,71.6,301.9,0,2.3,OK,0
+S03,Bengaluru,I006,Potato Chips,Snacks,280,0,3,1071.4,101.5,20.9,34.4,135.9,2236.4,0,7.3,OK,0
+S03,Bengaluru,I005,Orange Juice 1L,Beverages,94,0,3,404.5,38.6,9.0,14.9,53.4,575.3,0,6.5,OK,0
+S03,Bengaluru,I004,Cola 2L,Beverages,218,0,3,1018.8,104.3,14.6,24.0,128.3,916.9,0,6.0,OK,0
+S02,Hyderabad,I005,Orange Juice 1L,Beverages,125,0,3,404.8,40.1,7.3,12.0,52.1,601.8,0,8.6,OK,0
+S03,Bengaluru,I003,Toor Dal 1kg,Grocery,49,121,5,460.3,87.8,10.4,17.2,104.9,501.5,0,3.0,OK,0
+S03,Bengaluru,I001,Basmati Rice 5kg,Grocery,100,142,5,580.3,102.7,11.6,19.1,121.9,307.0,0,4.8,OK,0
+S02,Hyderabad,I010,Detergent 2kg,Household,107,117,6,459.2,102.4,14.6,24.1,126.4,344.4,0,6.5,OK,0
+S02,Hyderabad,I008,Shampoo 340ml,Personal Care,82,95,7,363.9,87.9,9.3,15.3,103.3,369.5,0,6.3,OK,0
+S03,Bengaluru,I002,Sunflower Oil 1L,Grocery,173,0,4,744.9,101.7,15.6,25.6,127.3,610.4,0,6.5,OK,0
+S03,Bengaluru,I012,Olive Oil 500ml,Grocery,9,10,9,31.3,10.1,3.2,5.2,15.3,64.3,0,8.1,OK,0
