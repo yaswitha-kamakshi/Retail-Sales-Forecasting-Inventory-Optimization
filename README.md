@@ -1,5 +1,7 @@
 # 📦 Retail Sales Forecasting & Inventory Optimization System
 
+![Dashboard demo](images/dashboard_demo.gif)
+
 > End-to-end demand forecasting and replenishment engine: **forecast item-level daily sales → compute safety stock, reorder points and EOQ → recommend purchase orders**, validated by a backtest and a policy-replay simulation.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue) ![scikit--learn](https://img.shields.io/badge/scikit--learn-RandomForest-orange) ![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-red) ![License](https://img.shields.io/badge/License-MIT-green)
